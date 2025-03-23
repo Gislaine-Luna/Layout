@@ -28,4 +28,5 @@ Esse projeto foi criado como parte do aprendizado no <a href="https://aulas.devc
 
 ### Visualize o Projeto ⬇️
 <br>
-<img src="https://github.com/Gislaine-Luna/Layout/blob/main/img/img2.png?raw=true" alt="Description of the image" style="width:100%; max-width:500px; height:auto;">
+<br>
+<img src="https://github.com/Gislaine-Luna/Layout/blob/main/img/img1.png?raw=true" alt="Description of the image" style="width:100%; max-width:500px; height:auto;">
